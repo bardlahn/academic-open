@@ -2,7 +2,7 @@
 
 As a researcher and educator at the [University of Oslo](https://www.sv.uio.no/tik/english/people/aca/baardll/index.html), I think we (as in academia in general, and UiO in particular) should help build an open digital ecosystem and avoid increasing the power and profits of big tech. I have therefore actively been seeking out open alternatives to software, edtech and digital tools used in research and higher ed.
 
-I decided to start alist to share  useful open tools I have come across. Some have become indispensible for me, others I am just curious about checking out. Although it is not (yet) very comprehensive, it might still provide some inspiration. Also, feel free to suggest additions or projects worth taking a closer look at.
+I decided to start a list to share useful open tools I have come across. Some have become indispensible for me, others I am just curious about checking out. Although it is not (yet) very comprehensive, it might still provide some inspiration. Also, feel free to suggest additions or projects worth taking a closer look at.
 
 Here is the beginnings of the list - in no particular order:
 
@@ -29,3 +29,8 @@ This is a very impressive project for a browser-only python coding environment t
 - Alternative to: <mark>Office 365 Whiteboard</mark>
 
 I really like this project from the University of Oslo's Faculty of Educational Sciences. It is a free and publicly developed version of the whiteboard functionality you find in Microsoft 365, or to Mentimeter.com type services. Still needs some improvements, but I find it works well in teaching.
+
+## > Digital Methods Recipes 
+- [Website](http://recipes.publicdatalab.org/)
+
+The great people at [Public Data Lab](https://publicdatalab.org/) have put together a list of resources for teaching and doing digital methods. The recipes include handy tips for working with network analysis, digital data collection, image analysis, and more.
