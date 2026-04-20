@@ -33,4 +33,4 @@ I really like this project from the University of Oslo's Faculty of Educational 
 ## > Digital Methods Recipes 
 - [Website](http://recipes.publicdatalab.org/)
 
-The great people at [Public Data Lab](https://publicdatalab.org/) have put together a list of resources for teaching and doing digital methods. The recipes include handy tips for working with network analysis, digital data collection, image analysis, and more.
+The great people at [Public Data Lab](https://publicdatalab.org/) have put together a list of resources for teaching and doing digital methods. The recipes include handy tips for working with network analysis, digital data collection, image analysis, and more. Not really an alternative to anything, but open and useful nevertheless.
