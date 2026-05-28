@@ -10,7 +10,9 @@ Here is the beginnings of the list - in no particular order:
 - [Website](https://zotero.org)
 - Alternative to: <mark>EndNote</mark>, <mark>Mendeley</mark> etc.
 
-Zotero is the research tool I use most frequently, and I always tell my students to use it. It works better than the heavy and expensive alternatives, is free, [open source](https://github.com/zotero/zotero) and community driven, and has a ton of useful [plugins and extensions](https://www.zotero.org/support/plugins). For newcomers to Zotero, my university has a [good overview](https://www.ub.uio.no/english/writing-publishing/referencing/zotero/) of functionality and add-ons.
+Zotero is the research tool I use most frequently, and I always tell my students to use it. It works better than the heavy and expensive alternatives, is free, [open source](https://github.com/zotero/zotero) and community driven, and has a ton of useful [plugins and extensions](https://www.zotero.org/support/plugins). 
+
+For newcomers to Zotero, my university has a [good overview](https://www.ub.uio.no/english/writing-publishing/referencing/zotero/) of functionality and add-ons. If you are an experinced user and would like to contribute, you can pitch in on translation work - I currently contribute to Norwegian (nynorsk) translation of the desktop app, and it's actually a lot of fun.
 
 ## > Matilda (academic search)
 - [Website](https://matilda.science/?l=en)
