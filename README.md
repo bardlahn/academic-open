@@ -36,3 +36,9 @@ I really like this project from the University of Oslo's Faculty of Educational 
 - [Website](http://recipes.publicdatalab.org/)
 
 The great people at [Public Data Lab](https://publicdatalab.org/) have put together a list of resources for teaching and doing digital methods. The recipes include handy tips for working with network analysis, digital data collection, image analysis, and more. Not really an alternative to anything, but open and useful nevertheless.
+
+## > Tangled
+- [Website](https://tangled.org/)
+- Alternative to: <mark>Github</mark>
+
+I am currently testing this new codesharing and collaborative coding tool. The cool thing about it is that it is built on the [AT protocol](https://atproto.com/), which means you can use your Bluesky account, you have complete ownership to your profile and data, and can choose to move or even self-host it at any time. I haven't yet done the move from Github to Tangled, but so far it looks promising, and I might have to do it if Github keeps pushing its AI stuff.
