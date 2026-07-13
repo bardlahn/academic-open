@@ -2,9 +2,11 @@
 
 As a researcher and educator at the [University of Oslo](https://www.sv.uio.no/tik/english/people/aca/baardll/index.html), I think we (as in academia in general, and UiO in particular) should help build an open digital ecosystem and avoid increasing the power and profits of big tech. I have therefore actively been seeking out open alternatives to software, edtech and digital tools used in research and higher ed.
 
-I decided to start a list to share useful open tools I have come across. Some have become indispensible for me, others I am just curious about checking out. Although it is not (yet) very comprehensive, it might still provide some inspiration. Also, feel free to suggest additions or projects worth taking a closer look at.
+I decided to start a list to share useful open tools I have come across. Some have become indispensible for me, others I am just curious about checking out. Although it is not (yet) very comprehensive, it might still provide some inspiration.
 
-Here is the beginnings of the list - in no particular order:
+The list is also available as an [Are.na channel](https://www.are.na/bard-lahn/open-academic-digital-tools). The channel is open to all, so feel free to suggest additions or projects worth taking a closer look at, and I might add them to this list later on.
+
+Here is the list so far - in no particular order:
 
 ## > Zotero (library & reference software)
 - [Website](https://zotero.org)
